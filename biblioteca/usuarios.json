@@ -1,0 +1,11 @@
+[
+    {
+        "nome_usuario": "admin",
+        "senha": "1234",
+        "livros_emprestados": [
+            78,
+            5,
+            90
+        ]
+    }
+]
